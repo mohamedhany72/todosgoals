@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/todos_goals/static/css/main.3c1cd5c2.css",
+    "main.js": "/todos_goals/static/js/main.31b437ea.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/todos_goals/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/404_img.png": "/todos_goals/static/media/404_img.6f45f1c17dfee0c53194.png",
+    "static/media/logo.png": "/todos_goals/static/media/logo.d8d6b168bb5c4e981c8b.png",
+    "static/media/user_male.png": "/todos_goals/static/media/user_male.2bc7ee6c1202a5bf2dd3.png",
+    "static/media/user_female.png": "/todos_goals/static/media/user_female.bb415f43aed1bab89b80.png",
+    "index.html": "/todos_goals/index.html",
+    "main.3c1cd5c2.css.map": "/todos_goals/static/css/main.3c1cd5c2.css.map",
+    "main.31b437ea.js.map": "/todos_goals/static/js/main.31b437ea.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/todos_goals/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c1cd5c2.css",
+    "static/js/main.31b437ea.js"
+  ]
+}
