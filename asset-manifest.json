@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/todosgoals/static/css/main.3c1cd5c2.css",
-    "main.js": "/todosgoals/static/js/main.502850f2.js",
+    "main.js": "/todosgoals/static/js/main.1e5ce8d4.js",
     "static/js/787.c4e7f8f9.chunk.js": "/todosgoals/static/js/787.c4e7f8f9.chunk.js",
     "static/media/404_img.png": "/todosgoals/static/media/404_img.6f45f1c17dfee0c53194.png",
     "static/media/logo.png": "/todosgoals/static/media/logo.d8d6b168bb5c4e981c8b.png",
@@ -9,11 +9,11 @@
     "static/media/user_female.png": "/todosgoals/static/media/user_female.bb415f43aed1bab89b80.png",
     "index.html": "/todosgoals/index.html",
     "main.3c1cd5c2.css.map": "/todosgoals/static/css/main.3c1cd5c2.css.map",
-    "main.502850f2.js.map": "/todosgoals/static/js/main.502850f2.js.map",
+    "main.1e5ce8d4.js.map": "/todosgoals/static/js/main.1e5ce8d4.js.map",
     "787.c4e7f8f9.chunk.js.map": "/todosgoals/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3c1cd5c2.css",
-    "static/js/main.502850f2.js"
+    "static/js/main.1e5ce8d4.js"
   ]
 }
